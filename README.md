@@ -40,7 +40,7 @@ Following the suggested cost function on the book, the cost function will be
     Swap Mutation, since `xs` and `ys` are the only values to be swapped on the child.
 
 # References
-[1]: RG ""
+[1]: #references ""
 [\[1\] RL Haupt and SE Haupt, *PRACTICAL GENETIC ALGORITHMS.* Hoboken, New Jersey, USA: John Wiley & Sons, Inc., 2004.](https://www.researchgate.net/profile/Sue_Haupt/publication/37405956_Practical_Genetic_Algorithms/links/0912f5092a761d8b04000000/Practical-Genetic-Algorithms.pdf)
 
 
