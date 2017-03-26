@@ -42,6 +42,30 @@ Following the suggested cost function on the book, the cost function will be
 
     Swap Mutation, since `xs` and `ys` are the only values to be swapped on the child.
 
+
+# Results
+
+```
+>> EmergencyResponseUnitLocator
+INITIAL COORDS: (8, 1)
+INITIAL COST: 2796.475344
+[====================================================================================================]
+ans = 
+
+    Generations    ProposedCoordinates    CostValue      ResponseTime   
+    ___________    ___________________    _________    _________________
+
+      0            (8, 1)                 2796.5       '9509.716168 min'
+      1            (5, 6)                 1685.7       '5733.138447 min'
+      2            (5, 6)                 1685.7       '5733.138447 min'
+      3            (5, 6)                 1685.7       '5733.138447 min'
+     ...            ...                    ...                ...
+     99            (5, 6)                 1685.7       '5733.138447 min'
+    100            (5, 6)                 1685.7       '5733.138447 min'
+>>
+```
+![](https://github.com/raymelon/EmergencyResponseUnitLocator/blob/master/misc/figure.JPG)
+
 # References
 [1]: #references ""
 [\[1\] RL Haupt and SE Haupt, *PRACTICAL GENETIC ALGORITHMS.* Hoboken, New Jersey, USA: John Wiley & Sons, Inc., 2004.](https://www.researchgate.net/profile/Sue_Haupt/publication/37405956_Practical_Genetic_Algorithms/links/0912f5092a761d8b04000000/Practical-Genetic-Algorithms.pdf)
